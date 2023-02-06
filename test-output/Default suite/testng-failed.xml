@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.BookFlight">
+      <class name="testcases.TC_002_BookFlight">
         <methods>
-          <include name="atTest"/>
-          <include name="initialize"/>
-          <include name="TeardownTest"/>
+          <include name="setUp"/>
+          <include name="TC_002_BookFlight"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- testcases.BookFlight -->
+      </class> <!-- testcases.TC_002_BookFlight -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

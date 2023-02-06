@@ -9,12 +9,17 @@ import utility.Base;
 public class TC_001_Login extends Base{
 	
 	@Test
-	public void TC_001_Login() {
+	public void TC_001_Login() throws Exception {
 		
 		HomePage homePage =new HomePage(driver);
 		LoginPage loginPage = new LoginPage(driver);
 		homePage.clickOnHomeButton();
+		waitForPageLoad();
 		loginPage.enterEmailAddress();
+		
+		loginPage.enterPassword();
+		
+		loginPage.clickOnLoginButton();
 	}
 
 }
