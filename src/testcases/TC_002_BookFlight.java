@@ -1,4 +1,5 @@
 package testcases;
+
 import org.testng.annotations.Test;
 
 import pages.Confirmation;
@@ -11,6 +12,8 @@ public class TC_002_BookFlight extends Base{
 	
 	@Test
 	public void TC_002_BookFlight() throws Exception {
+		
+		log.info("==========================Running TC_002_BookFligh ======================");
 		HomePage homePage = new HomePage(driver);
 		ReservationPage reservationPage = new ReservationPage(driver);
 		PurchagePage purchagePage = new PurchagePage(driver);

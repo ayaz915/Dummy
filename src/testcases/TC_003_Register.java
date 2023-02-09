@@ -11,7 +11,7 @@ public class TC_003_Register extends Base{
 	
 	@Test
 	public void TC_003_Register() throws Exception {
-		
+		log.info("==========================Running TC_003_Register ======================");
 		HomePage homePage =new HomePage(driver);
 		LoginPage loginPage = new LoginPage(driver);
 		Register register =new Register(driver);

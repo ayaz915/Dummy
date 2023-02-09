@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" name="MyApp" packages="">
+	<Appenders>
+        
+	<RollingFile name="rollingFile"
+			fileName="/Users/mr.a2z/Ayazworkspace/BlazeDemoAutomation/ExternalFile/Application.log" filePattern="log/application-%d{yyyy-MM-dd-HH-mm}-%i.log">
+			<PatternLayout>
+				<Pattern>%d{yyyy-MM-dd-HH:mm:ss} %-5p %m%n</Pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="1KB" />
+			</Policies>
+		</RollingFile>		
+	</Appenders>
+	
+	<Loggers>
+		<Root level="trace">
+			<AppenderRef ref="rollingFile" />
+		</Root>
+	</Loggers>
+</Configuration>

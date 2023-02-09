@@ -10,7 +10,7 @@ public class TC_001_Login extends Base{
 	
 	@Test
 	public void TC_001_Login() throws Exception {
-		
+		log.info("==========================Running TC_001_Login() ======================");
 		HomePage homePage =new HomePage(driver);
 		LoginPage loginPage = new LoginPage(driver);
 		homePage.clickOnHomeButton();

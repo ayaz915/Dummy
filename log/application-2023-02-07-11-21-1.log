@@ -1,0 +1,15 @@
+2023-02-07-11:20:47 DEBUG Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1%lo0)
+2023-02-07-11:20:47 DEBUG Failed to get SOMAXCONN from sysctl and file /proc/sys/net/core/somaxconn. Default: 128
+2023-02-07-11:20:47 DEBUG -Dio.netty.machineId: fc:e2:6c:ff:fe:28:3e:b9 (auto-detected)
+2023-02-07-11:20:47 DEBUG -Dio.netty.buffer.checkAccessible: true
+2023-02-07-11:20:47 DEBUG -Dio.netty.buffer.checkBounds: true
+2023-02-07-11:20:47 DEBUG Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@667d5707
+2023-02-07-11:20:47 DEBUG -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-02-07-11:20:47 DEBUG -Dio.netty.recycler.ratio: 8
+2023-02-07-11:20:47 DEBUG -Dio.netty.recycler.chunkSize: 32
+2023-02-07-11:20:47 DEBUG -Dio.netty.recycler.blocking: false
+2023-02-07-11:21:23 DEBUG brotli4j not in the classpath; Brotli support will be unavailable.
+2023-02-07-11:21:23 DEBUG -Dio.netty.initialSeedUniquifier: 0xc45d4458796697de
+2023-02-07-11:21:26 INFO  Url opened
+2023-02-07-11:21:27 INFO  Waiting for 5 second
+2023-02-07-11:21:33 INFO  Waiting for 5 second
