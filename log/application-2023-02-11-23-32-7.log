@@ -1,0 +1,15 @@
+2023-02-11-23:32:21 DEBUG Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1%lo0)
+2023-02-11-23:32:21 DEBUG Failed to get SOMAXCONN from sysctl and file /proc/sys/net/core/somaxconn. Default: 128
+2023-02-11-23:32:21 DEBUG -Dio.netty.machineId: fc:e2:6c:ff:fe:28:3e:b9 (auto-detected)
+2023-02-11-23:32:21 DEBUG -Dio.netty.buffer.checkAccessible: true
+2023-02-11-23:32:21 DEBUG -Dio.netty.buffer.checkBounds: true
+2023-02-11-23:32:21 DEBUG Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@617c68b7
+2023-02-11-23:32:21 DEBUG -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-02-11-23:32:21 DEBUG -Dio.netty.recycler.ratio: 8
+2023-02-11-23:32:21 DEBUG -Dio.netty.recycler.chunkSize: 32
+2023-02-11-23:32:21 DEBUG -Dio.netty.recycler.blocking: false
+2023-02-11-23:32:29 DEBUG brotli4j not in the classpath; Brotli support will be unavailable.
+2023-02-11-23:32:29 DEBUG -Dio.netty.initialSeedUniquifier: 0x29625239021c9957
+2023-02-11-23:32:29 INFO  Opening Chrome Browser
+2023-02-11-23:32:32 INFO  Url opened
+2023-02-11-23:32:32 INFO  ==========================Running TC_002_BookFligh ======================

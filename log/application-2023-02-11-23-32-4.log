@@ -1,0 +1,11 @@
+2023-02-11-23:32:21 DEBUG -Dio.netty.eventLoopThreads: 16
+2023-02-11-23:32:21 DEBUG -Dio.netty.noKeySetOptimization: false
+2023-02-11-23:32:21 DEBUG -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@4fcc529
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5d28bcd5
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@7882c44a
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@32639b12
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@20d11153
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@3887cf88
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5649ec46
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@78dc4696

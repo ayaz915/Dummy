@@ -1,0 +1,11 @@
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@502f8b57
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5652f555
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@4fe01805
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@55120f99
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@794b435f
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@38f2e97e
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@779dfe55
+2023-02-11-23:32:21 TRACE instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@323659f8
+2023-02-11-23:32:21 DEBUG -Dio.netty.allocator.numHeapArenas: 16
+2023-02-11-23:32:21 DEBUG -Dio.netty.allocator.numDirectArenas: 16
+2023-02-11-23:32:21 DEBUG -Dio.netty.allocator.pageSize: 8192
